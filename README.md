@@ -9,7 +9,8 @@ Data yang tampil di eureka
 Data yang tampil di swegger
 ![Screenshot 2024-05-29 222918](https://github.com/dinik212/UTS-2201081006/assets/168069126/0ab19f2f-b16d-4a42-927b-7fde8ca80198)
 ![Screenshot 2024-05-29 222859](https://github.com/dinik212/UTS-2201081006/assets/168069126/6dd6c357-d035-4fd3-8279-eccfed3d4a6a)
-![Screenshot 2024-05-29 222918](https://github.com/dinik212/UTS-2201081006/assets/168069126/6a0f653c-5ede-42d7-8138-52b4df5f0682)
+![Screenshot 2024-05-29 222918](https://github.com/dinik212/UTS-2201081006/assets/168069126/c5d957ca-a3c9-4994-ad73-229e4f88f137)
+
 
 
 
